@@ -1,0 +1,93 @@
+
+body{
+
+ font-family: 'Open Sans',sans-serif;
+
+
+}
+
+/* Banner Section */
+
+.banner-container{
+ 
+  background-color: black;
+
+}
+
+.banner-column{
+
+ background-color: #cacaca;
+
+
+}
+
+.navbar-container{
+
+  top: 0;
+  position: sticky;
+  z-index: 2;
+
+}
+
+.about-container p, h1{
+  text-indent: 15px;
+  text-align: justify;
+  letter-spacing: 2px;
+}
+
+.education-container{
+
+ background-color: black;
+
+
+}
+
+.circle{
+
+ background-color:white;
+ height:150px;
+ width:150px;
+ border-radius: 50%;
+
+}
+.container-portfolio{
+  background-color:black;
+
+}
+
+.container-portfolio q{
+  text-indent: 15px;
+  text-align: justify;
+  letter-spacing: 2px;
+}
+
+
+.form-container{
+
+  text-indent: 15px;
+  text-align: justify;
+  letter-spacing: 2px;
+
+
+}
+
+.footer{
+
+background-color:black;
+
+
+}
+
+
+
+.circle-social{
+  width:60px;
+  height:60px;
+  display: inline-block;
+  font-size: 40px;
+  direction: none;
+  
+ 
+  
+}
+
